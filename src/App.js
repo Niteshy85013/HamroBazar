@@ -6,6 +6,7 @@ import Header from "./components/layouts/Header";
 import Home from "./components/home/Home";
 import Contact from "./components/home/Contact";
 import Computers from "./components/products/Computers"
+ 
 import "./style/Main.css"
 function App() {
   return (
