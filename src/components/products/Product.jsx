@@ -18,7 +18,8 @@ const Product = () => {
                         </div>
                         <h5 class="card-title">CBR 600</h5>
                         <p class="fs-8">Description: Random Text about product.</p>
-                        <h5>NRP. 1800,000</h5>
+                        <p>NRP. 1800,000</p>
+                        <p>Address: Koteshwor</p>
                         <div class="card-footer">
                         <p className='fw-bold fs-5'>Get in touch with seller.<a href="/" class="btn btn-warning ms-5   fw-bold fs-5 " type="submit">View</a></p>
                         
@@ -37,6 +38,7 @@ const Product = () => {
                         <h5 class="card-title">CBR 600</h5>
                         <p class="fs-8">Description: Random Text about product.</p>
                         <h5>NRP. 1800,000</h5>
+                        <p>Address: Koteshwor</p>
                         <div class="card-footer">
                         <p className='fw-bold fs-5'>Get in touch with seller.<a href="/" class="btn btn-warning ms-5   fw-bold fs-5 " type="submit">View</a></p>
                         
@@ -54,7 +56,8 @@ const Product = () => {
                         </div>
                         <h5 class="card-title">CBR 600</h5>
                         <p class="fs-8">Description: Random Text about product.</p>
-                        <h5>NRP. 1800,000</h5>
+                        <p>NRP. 1800,000</p>
+                        <p>Address: Koteshwor</p>
                         <div class="card-footer">
                         <p className='fw-bold fs-5'>Get in touch with seller.<a href="/" class="btn btn-warning ms-5   fw-bold fs-5 " type="submit">View</a></p>
                         
@@ -72,7 +75,8 @@ const Product = () => {
                         </div>
                         <h5 class="card-title">CBR 600</h5>
                         <p class="fs-8">Description: Random Text about product.</p>
-                        <h5>NRP. 1800,000</h5>
+                        <p>NRP. 1800,000</p>
+                        <p>Address: Koteshwor</p>
                         <div class="card-footer">
                         <p className='fw-bold fs-5'>Get in touch with seller.<a href="/" class="btn btn-warning ms-5   fw-bold fs-5 " type="submit">View</a></p>
                         
@@ -90,7 +94,8 @@ const Product = () => {
                         </div>
                         <h5 class="card-title">CBR 600</h5>
                         <p class="fs-8">Description: Random Text about product.</p>
-                        <h5>NRP. 1800,000</h5>
+                        <p>NRP. 1800,000</p> 
+                        <p>Address: Koteshwor</p>
                         <div class="card-footer">
                         <p className='fw-bold fs-5'>Get in touch with seller.<a href="/" class="btn btn-warning ms-5   fw-bold fs-5 " type="submit">View</a></p>
                         
@@ -108,7 +113,8 @@ const Product = () => {
                         </div>
                         <h5 class="card-title">CBR 600</h5>
                         <p class="fs-8">Description: Random Text about product.</p>
-                        <h5>NRP. 1800,000</h5>
+                        <p>NRP. 1800,000</p>
+                        <p>Address: Koteshwor</p>
                         <div class="card-footer">
                         <p className='fw-bold fs-5'>Get in touch with seller.<a href="/" class="btn btn-warning ms-5   fw-bold fs-5 " type="submit">View</a></p>
     </div>

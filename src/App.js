@@ -5,7 +5,7 @@ import 'bootstrap/dist/js/bootstrap.js';
 import Header from "./components/layouts/Header";
 import Home from "./components/home/Home";
 import Contact from "./components/home/Contact";
-
+import Computers from "./components/products/Computers"
 import "./style/Main.css"
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
     <Routes>
       <Route path="/" element={<Home/>}/>
       <Route path="/contact" element={<Contact/>}/>
-      
+      <Route path="/computer" element={<Computers/>}/>
       
     </Routes>
      

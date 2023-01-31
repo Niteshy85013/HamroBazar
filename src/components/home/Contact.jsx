@@ -44,7 +44,7 @@ const Contact = () => {
                </div>
   
                <div class="col-md-6 mt-3">
-                   <img src="./images/contact.png" alt="" class="mt-5 img-fluid"   />
+                   <img src="https://imgs.search.brave.com/I41ikO_ADjMpfOXh93dF0x0GfqsF0vOnvzdPdNmMlok/rs:fit:729:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5N/QzRvYkhQZEo4akFO/cUxJdUU1c29RSGFF/MCZwaWQ9QXBp" alt="" class="mt-5 img-fluid"   />
                </div>
            </div>
        </div>

@@ -24,7 +24,7 @@ const Header = () => {
                         <a href="/" class="dropdown-item">AutoMobiles</a>
                         <a href="/" class="dropdown-item">Furnishing</a>
                         <a href="/" class="dropdown-item">Electronics</a>
-                        <a href="/" class="dropdown-item">Computers</a>
+                        <a href="/computer" class="dropdown-item">Computers</a>
                      </div>
           </li>
 
