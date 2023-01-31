@@ -1,0 +1,10 @@
+.navbar{
+    position: sticky;
+    top:0;
+    z-index: 10;
+    box-shadow: 0 0 10px #1103da;
+}
+
+.homeback{
+    background-color:  white
+}
