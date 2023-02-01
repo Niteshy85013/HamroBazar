@@ -5,7 +5,9 @@ import 'bootstrap/dist/js/bootstrap.js';
 import Header from "./components/layouts/Header";
 import Home from "./components/home/Home";
 import Contact from "./components/home/Contact";
-import Computers from "./components/products/Computers"
+import Computers from "./components/products/Computers";
+import Login from "./components/auth/Login";
+import Register from "./components/auth/Register";
  
 import "./style/Main.css"
 function App() {
@@ -16,6 +18,8 @@ function App() {
       <Route path="/" element={<Home/>}/>
       <Route path="/contact" element={<Contact/>}/>
       <Route path="/computer" element={<Computers/>}/>
+      <Route path="/login" element={<Login/>}/>
+      <Route path="/register" element={<Register/>}/>
       
     </Routes>
      

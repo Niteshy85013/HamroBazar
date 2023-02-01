@@ -37,8 +37,8 @@ const Header = () => {
 
        <a href="/" class="btn btn-dark ms-2 fw-bold fs-5">Post for free</a>
        <div class="vr  ms-2 " style={{width:'3px'}}></div>
-        <a href="/" class="btn   ms-2 fw-bold fs-5 " type="submit">Login</a>
-        <a href="/" class="btn btn-outline-success ms-2 fw-bold fs-5 " type="submit">Sign Up</a>
+        <a href="/login" class="btn   ms-2 fw-bold fs-5 " type="submit">Login</a>
+        <a href="/register" class="btn btn-outline-success ms-2 fw-bold fs-5 " type="submit">Sign Up</a>
     </div>
   </div>
 </nav>
